@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"MarkdownBuild",
 		"Package Control",
 		"SublimeLinter",
 		"Theme - Soda",
