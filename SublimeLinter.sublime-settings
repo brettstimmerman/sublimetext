@@ -6,6 +6,7 @@
     "sublimelinter_delay": 0.3,
 
     "sublimelinter_gutter_marks": true,
+    "sublimelinter_gutter_marks_theme": "bright",
 
     "csslint_options": {
         "adjoining-classes": "warning",
